@@ -1,27 +1,26 @@
-/*  your css code here. If applicable */
-body {
-        padding: 20px;
-        background-color: #f8f9fa;
-      }
-      .container {
-        max-width: 600px;
-        margin: 0 auto;
-      }
-      .loading-row {
-        text-align: center;
-        font-style: italic;
-        color: #6c757d;
-      }
-      .table-container {
-        background: white;
-        border-radius: 8px;
-        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-        overflow: hidden;
-      }
-      .btn-restart {
-        margin-top: 20px;
-      }
-      .total-row {
-        font-weight: bold;
-        background-color: #e9ecef !important;
-      }
+  body {
+            padding: 20px;
+            background-color: #f8f9fa;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .loading-row {
+            text-align: center;
+            font-style: italic;
+            color: #6c757d;
+        }
+        .table-container {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        .btn-restart {
+            margin-top: 20px;
+        }
+        .total-row {
+            font-weight: bold;
+            background-color: #e9ecef !important;
+        }
